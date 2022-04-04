@@ -1,6 +1,6 @@
 #  CLOCK
 
-#### * Live link : 
+#### * Live link :  https://prakartigoel24.github.io/Js_MiniProjects/CLOCK/
 
 This is a simple clock made as a practise project . 
 
